@@ -1,4 +1,4 @@
 ﻿Завдання "Анкета". Завдання користувача ввести свої дані в форму.
 При натисканні на кнопку дані з форми та дата заповнення анкети записуються до файлу та відображаються у блокноті (У файлі мають зберігатись всі анкети).
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/blazhkevych/10122020dzAnketa/blob/master/img/anketa.png)
